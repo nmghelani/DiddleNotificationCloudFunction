@@ -1,0 +1,2 @@
+# DiddleNotificationCloudFunction
+Notification generator cloud function
